@@ -2,7 +2,7 @@
 
 <h2>What is Automation?</h2>
 <h3>A little background</h3>
-<p>Sometimes we just need to stop typing on the keyboard, hold a cup of coffee in hands, sit back and let the computer automate all the
+<p>Sometimes we just need to stop typing on the keyboard, hold a cup of coffee in hands,sit back and let the computer automate all the
     tasks on its own to get the most accurate search results so that we can quickly wind-up other things and move onto next task.
     At this point a term called <b>Automation</b> comes handy which takes the burden of all the recursive steps and produces the desired
     output without <i>human interference.</i></p>
@@ -22,13 +22,13 @@
           Get to the homepage.Go to repositories.Then keep scrolling your mouse down until you find your desired repo and then click
           on it to open its content.</li>
 
-          
+          <br>
 
       <li>Second one is super fast and intelligent.You run my Python program.You just type <i>username</i> of a person and boom
           you are done, all the repositories of that <i>username</i> along with info and data are printed on your screen.Then you
           just type the correct <i>repo_no</i> to access and see all the contents of that repo along with <i>URL.</i>Well, pretty nice
             huh?</li>
-    </ul>
+    
 
 <h2>How my program works?</h2>
 <p>Well, its pretty nice and decent.You can open the <i>.py code</i> and read the comments so that you can understand on your own.
