@@ -8,7 +8,7 @@
     output without <i>human interference.</i></p>
 
 <h3>But Why?</h3>
-<p>Today, where hundreds of millions and billions of information and data are updated at every notch of a second and thousands of
+<p>Today, where hundreds of millions and billions of information and data are updated at every notch of a second (almost) and thousands of
     requests are made by millions of people regularly so it becomes super difiicult to manage,manipulate,search and update data of a
     particular search filter and qualifier.That's why <b><i>Automation</i></b> makes computer handle the recursive steps
     and keep querying the results until a break or base condition is met.Similarly in the world of Git and GitHub, automated scripts
