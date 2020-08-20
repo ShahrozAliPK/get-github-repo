@@ -1,8 +1,8 @@
 <h1>Get-GitHub-Repo</h1>
 
 <h2>NOTE</h2>
-<p>The program is designed for unauthenticated user without using <i>username and password</i> or GitHub <i>ACCESS TOKENS</i>so chances
-    are the returning reponses could be limited</p>
+<p>The program is designed for unauthenticated user without using <i>username and password</i> or GitHub <i>ACCESS TOKENS</i>.So chances
+    are returning reponses could be limited [if not within range 30]</p>
 
 <h2>What is Automation?</h2>
 <h3>A little background</h3>
