@@ -1,5 +1,9 @@
 <h1>Get-GitHub-Repo</h1>
 
+<h2>NOTE</h2>
+<p>The program is designed for unauthenticated user without using <i>username and password</i> or GitHub <i>ACCESS TOKENS</i>so chances
+    are the returning reponses could be limited</p>
+
 <h2>What is Automation?</h2>
 <h3>A little background</h3>
 <p>Sometimes we just need to stop typing on the keyboard, hold a cup of coffee in hands,sit back and let the computer automate all the
